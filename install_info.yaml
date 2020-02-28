@@ -1,0 +1,8 @@
+
+apps:
+  pycharm:
+    website: https://www.jetbrains.com/pycharm/
+    platforms: ['windows', 'mac', 'linux']
+
+
+
