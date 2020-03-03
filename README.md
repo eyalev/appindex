@@ -1,8 +1,3 @@
+# App Index
 
-# Install Info
-
-Easily understand how to install something. 
-
-
-
-
+Data about apps.
